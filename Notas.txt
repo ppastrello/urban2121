@@ -1,0 +1,9 @@
+Notas de ayuda para la programacion HTML
+No se puede usar en ninugan de sus formas en el nombre de los archivo o carpetas
+las mayusculas
+simbolos
+Asentos 
+espacios
+
+que se puede usar 
+guin medio o bajo
